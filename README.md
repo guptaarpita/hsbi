@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/guptaarpita/hsbi/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/guptaarpita/hsbi/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/guptaarpita/hsbi/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
