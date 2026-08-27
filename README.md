@@ -19,17 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/guptaarpita/hsbi/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/guptaarpita/hsbi/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
+| [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/guptaarpita/hsbi/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/guptaarpita/hsbi/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/guptaarpita/hsbi/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/guptaarpita/hsbi/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/guptaarpita/hsbi/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/guptaarpita/hsbi/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/guptaarpita/hsbi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/guptaarpita/hsbi/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/guptaarpita/hsbi/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
+| [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 | [1927-sum-game](https://github.com/guptaarpita/hsbi/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/guptaarpita/hsbi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/guptaarpita/hsbi/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 | [1927-sum-game](https://github.com/guptaarpita/hsbi/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
@@ -158,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
