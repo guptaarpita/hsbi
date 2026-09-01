@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/guptaarpita/hsbi/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/guptaarpita/hsbi/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptaarpita/hsbi/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [1927-sum-game](https://github.com/guptaarpita/hsbi/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/guptaarpita/hsbi/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/guptaarpita/hsbi/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/guptaarpita/hsbi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/guptaarpita/hsbi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/guptaarpita/hsbi/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/guptaarpita/hsbi/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/guptaarpita/hsbi/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/guptaarpita/hsbi/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/guptaarpita/hsbi/tree/master/0877-stone-game) |
