@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/guptaarpita/hsbi/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/guptaarpita/hsbi/tree/master/0184-department-highest-salary) |
 | [1084-sales-analysis-iii](https://github.com/guptaarpita/hsbi/tree/master/1084-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/guptaarpita/hsbi/tree/master/1158-market-analysis-i) |
 ## Greedy
 |  |
 | ------- |
