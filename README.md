@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/guptaarpita/hsbi/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/guptaarpita/hsbi/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/guptaarpita/hsbi/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/guptaarpita/hsbi/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/guptaarpita/hsbi/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/guptaarpita/hsbi/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/guptaarpita/hsbi/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/guptaarpita/hsbi/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/guptaarpita/hsbi/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/guptaarpita/hsbi/tree/master/0070-climbing-stairs) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/guptaarpita/hsbi/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/guptaarpita/hsbi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
