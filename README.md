@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/guptaarpita/hsbi/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptaarpita/hsbi/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/guptaarpita/hsbi/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/guptaarpita/hsbi/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/guptaarpita/hsbi/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/guptaarpita/hsbi/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/guptaarpita/hsbi/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/guptaarpita/hsbi/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/guptaarpita/hsbi/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/guptaarpita/hsbi/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/guptaarpita/hsbi/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
