@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/guptaarpita/hsbi/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/guptaarpita/hsbi/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/guptaarpita/hsbi/tree/master/0066-plus-one) |
+| [0090-subsets-ii](https://github.com/guptaarpita/hsbi/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/guptaarpita/hsbi/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
+| [0090-subsets-ii](https://github.com/guptaarpita/hsbi/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
 | [2305-fair-distribution-of-cookies](https://github.com/guptaarpita/hsbi/tree/master/2305-fair-distribution-of-cookies) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/guptaarpita/hsbi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/guptaarpita/hsbi/tree/master/0090-subsets-ii) |
 | [2305-fair-distribution-of-cookies](https://github.com/guptaarpita/hsbi/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
