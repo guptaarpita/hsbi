@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/guptaarpita/hsbi/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
+| [0834-sum-of-distances-in-tree](https://github.com/guptaarpita/hsbi/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/guptaarpita/hsbi/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/guptaarpita/hsbi/tree/master/1406-stone-game-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/guptaarpita/hsbi/tree/master/2305-fair-distribution-of-cookies) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/guptaarpita/hsbi/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/guptaarpita/hsbi/tree/master/0101-symmetric-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/guptaarpita/hsbi/tree/master/0834-sum-of-distances-in-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/guptaarpita/hsbi/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/guptaarpita/hsbi/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/guptaarpita/hsbi/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
+| [0834-sum-of-distances-in-tree](https://github.com/guptaarpita/hsbi/tree/master/0834-sum-of-distances-in-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/guptaarpita/hsbi/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -284,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/guptaarpita/hsbi/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/guptaarpita/hsbi/tree/master/3904-smallest-stable-index-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/guptaarpita/hsbi/tree/master/0834-sum-of-distances-in-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/guptaarpita/hsbi/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
