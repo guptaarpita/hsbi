@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/guptaarpita/hsbi/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/guptaarpita/hsbi/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/guptaarpita/hsbi/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/guptaarpita/hsbi/tree/master/1406-stone-game-iii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/guptaarpita/hsbi/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/guptaarpita/hsbi/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/guptaarpita/hsbi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
