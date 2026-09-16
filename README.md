@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/guptaarpita/hsbi/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/guptaarpita/hsbi/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
+| [0435-non-overlapping-intervals](https://github.com/guptaarpita/hsbi/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 | [0834-sum-of-distances-in-tree](https://github.com/guptaarpita/hsbi/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/guptaarpita/hsbi/tree/master/0877-stone-game) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/guptaarpita/hsbi/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/guptaarpita/hsbi/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
+| [0435-non-overlapping-intervals](https://github.com/guptaarpita/hsbi/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/guptaarpita/hsbi/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/guptaarpita/hsbi/tree/master/0877-stone-game) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/guptaarpita/hsbi/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/guptaarpita/hsbi/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/guptaarpita/hsbi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/guptaarpita/hsbi/tree/master/1927-sum-game) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/guptaarpita/hsbi/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/guptaarpita/hsbi/tree/master/0018-4sum) |
+| [0435-non-overlapping-intervals](https://github.com/guptaarpita/hsbi/tree/master/0435-non-overlapping-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/guptaarpita/hsbi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/guptaarpita/hsbi/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/guptaarpita/hsbi/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
