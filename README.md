@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/guptaarpita/hsbi/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/guptaarpita/hsbi/tree/master/0115-distinct-subsequences) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/guptaarpita/hsbi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1763-longest-nice-substring](https://github.com/guptaarpita/hsbi/tree/master/1763-longest-nice-substring) |
 | [1927-sum-game](https://github.com/guptaarpita/hsbi/tree/master/1927-sum-game) |
 | [2266-count-number-of-texts](https://github.com/guptaarpita/hsbi/tree/master/2266-count-number-of-texts) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/guptaarpita/hsbi/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/guptaarpita/hsbi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1763-longest-nice-substring](https://github.com/guptaarpita/hsbi/tree/master/1763-longest-nice-substring) |
 | [2266-count-number-of-texts](https://github.com/guptaarpita/hsbi/tree/master/2266-count-number-of-texts) |
 | [2347-best-poker-hand](https://github.com/guptaarpita/hsbi/tree/master/2347-best-poker-hand) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/guptaarpita/hsbi/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/guptaarpita/hsbi/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
+| [1763-longest-nice-substring](https://github.com/guptaarpita/hsbi/tree/master/1763-longest-nice-substring) |
 | [2305-fair-distribution-of-cookies](https://github.com/guptaarpita/hsbi/tree/master/2305-fair-distribution-of-cookies) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/guptaarpita/hsbi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/guptaarpita/hsbi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaarpita/hsbi/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/guptaarpita/hsbi/tree/master/1763-longest-nice-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/guptaarpita/hsbi/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/guptaarpita/hsbi/tree/master/0023-merge-k-sorted-lists) |
+| [1763-longest-nice-substring](https://github.com/guptaarpita/hsbi/tree/master/1763-longest-nice-substring) |
 ## Merge Sort
 |  |
 | ------- |
