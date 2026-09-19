@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/guptaarpita/hsbi/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/guptaarpita/hsbi/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptaarpita/hsbi/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/guptaarpita/hsbi/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/guptaarpita/hsbi/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/guptaarpita/hsbi/tree/master/0115-distinct-subsequences) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/guptaarpita/hsbi/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/guptaarpita/hsbi/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/guptaarpita/hsbi/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/guptaarpita/hsbi/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/guptaarpita/hsbi/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/guptaarpita/hsbi/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/guptaarpita/hsbi/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/guptaarpita/hsbi/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
