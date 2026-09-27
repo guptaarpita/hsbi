@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/guptaarpita/hsbi/tree/master/0115-distinct-subsequences) |
 | [0409-longest-palindrome](https://github.com/guptaarpita/hsbi/tree/master/0409-longest-palindrome) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/guptaarpita/hsbi/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/guptaarpita/hsbi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/guptaarpita/hsbi/tree/master/1763-longest-nice-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/guptaarpita/hsbi/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -385,8 +386,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/guptaarpita/hsbi/tree/master/0071-simplify-path) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/guptaarpita/hsbi/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Segment Tree
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/guptaarpita/hsbi/tree/master/3525-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/guptaarpita/hsbi/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
