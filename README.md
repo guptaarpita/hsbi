@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/guptaarpita/hsbi/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/guptaarpita/hsbi/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/guptaarpita/hsbi/tree/master/0301-remove-invalid-parentheses) |
 | [0409-longest-palindrome](https://github.com/guptaarpita/hsbi/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/guptaarpita/hsbi/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/guptaarpita/hsbi/tree/master/0856-score-of-parentheses) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/guptaarpita/hsbi/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/guptaarpita/hsbi/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/guptaarpita/hsbi/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/guptaarpita/hsbi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/guptaarpita/hsbi/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/guptaarpita/hsbi/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/guptaarpita/hsbi/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
 | [2305-fair-distribution-of-cookies](https://github.com/guptaarpita/hsbi/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
