@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/guptaarpita/hsbi/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/guptaarpita/hsbi/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/guptaarpita/hsbi/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/guptaarpita/hsbi/tree/master/0037-sudoku-solver) |
 | [0055-jump-game](https://github.com/guptaarpita/hsbi/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/guptaarpita/hsbi/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/guptaarpita/hsbi/tree/master/0066-plus-one) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/guptaarpita/hsbi/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/guptaarpita/hsbi/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/guptaarpita/hsbi/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/guptaarpita/hsbi/tree/master/0037-sudoku-solver) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/guptaarpita/hsbi/tree/master/0409-longest-palindrome) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/guptaarpita/hsbi/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/guptaarpita/hsbi/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/guptaarpita/hsbi/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/guptaarpita/hsbi/tree/master/0835-image-overlap) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/guptaarpita/hsbi/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/guptaarpita/hsbi/tree/master/0037-sudoku-solver) |
 | [0090-subsets-ii](https://github.com/guptaarpita/hsbi/tree/master/0090-subsets-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/guptaarpita/hsbi/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
@@ -430,4 +434,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/guptaarpita/hsbi/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/guptaarpita/hsbi/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/guptaarpita/hsbi/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/guptaarpita/hsbi/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/guptaarpita/hsbi/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
