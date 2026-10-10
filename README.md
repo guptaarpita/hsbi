@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/guptaarpita/hsbi/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/guptaarpita/hsbi/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/guptaarpita/hsbi/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/guptaarpita/hsbi/tree/master/0835-image-overlap) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/guptaarpita/hsbi/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/guptaarpita/hsbi/tree/master/0037-sudoku-solver) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/guptaarpita/hsbi/tree/master/0409-longest-palindrome) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/guptaarpita/hsbi/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/guptaarpita/hsbi/tree/master/1763-longest-nice-substring) |
 | [2305-fair-distribution-of-cookies](https://github.com/guptaarpita/hsbi/tree/master/2305-fair-distribution-of-cookies) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/guptaarpita/hsbi/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/guptaarpita/hsbi/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/guptaarpita/hsbi/tree/master/0877-stone-game) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/guptaarpita/hsbi/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/guptaarpita/hsbi/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptaarpita/hsbi/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/guptaarpita/hsbi/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -332,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/guptaarpita/hsbi/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/guptaarpita/hsbi/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/guptaarpita/hsbi/tree/master/0435-non-overlapping-intervals) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/guptaarpita/hsbi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
