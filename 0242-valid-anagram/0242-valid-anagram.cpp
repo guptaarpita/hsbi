@@ -4,7 +4,7 @@ public:
     bool isAnagram(string s, string t) {
         vector<int> count(26, 0);
 
-        for (char &ch : s) {
+        for (char ch : s) {
             count[ch - 'a']++;
         }
 
