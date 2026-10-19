@@ -2,9 +2,7 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if (s.size() != t.size()) {
-            return false;
-        }
+        
 
         vector<int> count(26, 0);
 
@@ -16,9 +14,7 @@ public:
             count[ch - 'a']--;
         }
 
-        bool allZeroes = all_of(
-            begin(count), end(count),
-            [](int element) {
+        bool allZeroes = all_of(begin(count), end(count),[](int element) {
                 return element == 0;
             });
         return allZeroes;
