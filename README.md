@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/guptaarpita/hsbi/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/guptaarpita/hsbi/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/guptaarpita/hsbi/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/guptaarpita/hsbi/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/guptaarpita/hsbi/tree/master/0301-remove-invalid-parentheses) |
 | [0409-longest-palindrome](https://github.com/guptaarpita/hsbi/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/guptaarpita/hsbi/tree/master/0678-valid-parenthesis-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/guptaarpita/hsbi/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/guptaarpita/hsbi/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/guptaarpita/hsbi/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/guptaarpita/hsbi/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/guptaarpita/hsbi/tree/master/0409-longest-palindrome) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/guptaarpita/hsbi/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/guptaarpita/hsbi/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/guptaarpita/hsbi/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/guptaarpita/hsbi/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/guptaarpita/hsbi/tree/master/0435-non-overlapping-intervals) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
