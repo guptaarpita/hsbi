@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/guptaarpita/hsbi/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/guptaarpita/hsbi/tree/master/0101-symmetric-tree) |
+| [0617-merge-two-binary-trees](https://github.com/guptaarpita/hsbi/tree/master/0617-merge-two-binary-trees) |
 | [0834-sum-of-distances-in-tree](https://github.com/guptaarpita/hsbi/tree/master/0834-sum-of-distances-in-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/guptaarpita/hsbi/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/guptaarpita/hsbi/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/guptaarpita/hsbi/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/guptaarpita/hsbi/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
+| [0617-merge-two-binary-trees](https://github.com/guptaarpita/hsbi/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/guptaarpita/hsbi/tree/master/0721-accounts-merge) |
 | [0834-sum-of-distances-in-tree](https://github.com/guptaarpita/hsbi/tree/master/0834-sum-of-distances-in-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/guptaarpita/hsbi/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/guptaarpita/hsbi/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/guptaarpita/hsbi/tree/master/0301-remove-invalid-parentheses) |
+| [0617-merge-two-binary-trees](https://github.com/guptaarpita/hsbi/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/guptaarpita/hsbi/tree/master/0721-accounts-merge) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/guptaarpita/hsbi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/guptaarpita/hsbi/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/guptaarpita/hsbi/tree/master/0101-symmetric-tree) |
+| [0617-merge-two-binary-trees](https://github.com/guptaarpita/hsbi/tree/master/0617-merge-two-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/guptaarpita/hsbi/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/guptaarpita/hsbi/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting
