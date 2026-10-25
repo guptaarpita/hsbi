@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/guptaarpita/hsbi/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/guptaarpita/hsbi/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/guptaarpita/hsbi/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/guptaarpita/hsbi/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/guptaarpita/hsbi/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/guptaarpita/hsbi/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/guptaarpita/hsbi/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/guptaarpita/hsbi/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/guptaarpita/hsbi/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/guptaarpita/hsbi/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/guptaarpita/hsbi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/guptaarpita/hsbi/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/guptaarpita/hsbi/tree/master/0721-accounts-merge) |
 | [0834-sum-of-distances-in-tree](https://github.com/guptaarpita/hsbi/tree/master/0834-sum-of-distances-in-tree) |
+| [1254-number-of-closed-islands](https://github.com/guptaarpita/hsbi/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/guptaarpita/hsbi/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/guptaarpita/hsbi/tree/master/0617-merge-two-binary-trees) |
 | [0721-accounts-merge](https://github.com/guptaarpita/hsbi/tree/master/0721-accounts-merge) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/guptaarpita/hsbi/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/guptaarpita/hsbi/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/guptaarpita/hsbi/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/guptaarpita/hsbi/tree/master/0721-accounts-merge) |
+| [1254-number-of-closed-islands](https://github.com/guptaarpita/hsbi/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/guptaarpita/hsbi/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/guptaarpita/hsbi/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Memoization
