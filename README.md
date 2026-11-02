@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/guptaarpita/hsbi/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/guptaarpita/hsbi/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaarpita/hsbi/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 | [0721-accounts-merge](https://github.com/guptaarpita/hsbi/tree/master/0721-accounts-merge) |
 | [0835-image-overlap](https://github.com/guptaarpita/hsbi/tree/master/0835-image-overlap) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/guptaarpita/hsbi/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/guptaarpita/hsbi/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaarpita/hsbi/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/guptaarpita/hsbi/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/guptaarpita/hsbi/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/guptaarpita/hsbi/tree/master/0877-stone-game) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/guptaarpita/hsbi/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/guptaarpita/hsbi/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaarpita/hsbi/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/guptaarpita/hsbi/tree/master/0721-accounts-merge) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/guptaarpita/hsbi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
