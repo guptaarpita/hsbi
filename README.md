@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/guptaarpita/hsbi/tree/master/0877-stone-game) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/guptaarpita/hsbi/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/guptaarpita/hsbi/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/guptaarpita/hsbi/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/guptaarpita/hsbi/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/guptaarpita/hsbi/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/guptaarpita/hsbi/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/guptaarpita/hsbi/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/guptaarpita/hsbi/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/guptaarpita/hsbi/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/guptaarpita/hsbi/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/guptaarpita/hsbi/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/guptaarpita/hsbi/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/guptaarpita/hsbi/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptaarpita/hsbi/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/guptaarpita/hsbi/tree/master/0086-partition-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/guptaarpita/hsbi/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/guptaarpita/hsbi/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/guptaarpita/hsbi/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/guptaarpita/hsbi/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0721-accounts-merge](https://github.com/guptaarpita/hsbi/tree/master/0721-accounts-merge) |
 | [1096-brace-expansion-ii](https://github.com/guptaarpita/hsbi/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/guptaarpita/hsbi/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/guptaarpita/hsbi/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/guptaarpita/hsbi/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/guptaarpita/hsbi/tree/master/2333-minimum-sum-of-squared-difference) |
