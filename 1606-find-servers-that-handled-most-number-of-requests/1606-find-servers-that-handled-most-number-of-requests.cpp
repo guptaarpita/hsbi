@@ -33,18 +33,12 @@ public:
             int targetServer = *it;
 
             available_servers.erase(it);
-
-            // Mark server as busy
             busyServers.push({time + load[i], targetServer});
 
             countRequest[targetServer]++;
         }
-
-        // Find maximum number of requests handled
         int maxNumberOfRequest =
             *max_element(countRequest.begin(), countRequest.end());
-
-        // Store all busiest servers
         vector<int> result;
 
         for(int i = 0; i < k; i++) {
@@ -52,7 +46,6 @@ public:
                 result.push_back(i);
             }
         }
-
         return result;
     }
 };
