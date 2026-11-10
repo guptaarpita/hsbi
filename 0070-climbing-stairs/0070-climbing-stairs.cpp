@@ -1,8 +1,8 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        int prev2 = 1; // dp[i-2]
-        int prev1 = 1; // dp[i-1]
+        int prev2 = 1;
+        int prev1 = 1;
 
         for (int i = 2; i <= n; ++i) {
             int cur = prev1 + prev2;
